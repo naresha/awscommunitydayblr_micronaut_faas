@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: temperature.converter
+---
+testFramework: junit
+sourceLanguage: java

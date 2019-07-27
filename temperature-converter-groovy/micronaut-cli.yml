@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: com.nareshak.demo
+---
+testFramework: spock
+sourceLanguage: groovy

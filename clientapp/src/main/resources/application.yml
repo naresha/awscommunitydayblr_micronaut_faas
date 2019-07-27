@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: clientapp
+
+---
+
+aws:
+  lambda:
+    functions:
+      convertTemperature:
+        functionName: temperature-converter-mn-groovy
+    region: us-east-1
